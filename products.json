@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name": "Double Beef Burgger",
+        "price":"$200",
+        "image":"images/burger.png"
+    },
+    {
+        "id":2,
+        "name": "Veggie Pizza",
+        "price":"$10.99",
+        "image":"images/pizza.png"
+    },
+    {
+        "id":3,
+        "name": "Fried Chicken",
+        "price":"$13.45",
+        "image":"images/fried-chicken.png"
+    },
+    {
+        "id":4,
+        "name": "Lasagna",
+        "price":"$11.25",
+        "image":"images/lasagna.png"
+    },
+    {
+        "id":5,
+        "name": "Sandwich",
+        "price":"$6.80",
+        "image":"images/sandwich.png"
+    },
+    {
+        "id":6,
+        "name": "Spaghetti",
+        "price":"$12.40",
+        "image":"images/spaghetti.png"
+    },
+    {
+        "id":7,
+        "name": "Italian Cuisine Tandoori Chicken",
+        "price":"$7.65",
+        "image":"images/Italian.png"
+    },
+    {
+        "id":8,
+        "name": "Fried Ilish Fish",
+        "price":"$8.65",
+        "image":"images/fish.png"
+    }
+]
