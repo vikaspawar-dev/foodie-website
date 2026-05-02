@@ -1,48 +1,61 @@
-🍔 Foodie Website
+# 🍔 Foodie Website - Food Ordering UI
 
-A modern and responsive Food Ordering Website built using HTML, CSS, and JavaScript.
-It includes a dynamic product list, shopping cart system, and interactive UI.
+A modern responsive Food Ordering website built using **HTML, CSS, JavaScript**.  
+Includes cart system, product listing, swiper reviews, and beautiful UI.
 
-🚀 Live Demo
+---
 
+## 🚀 Live Demo
 👉 https://vikaspawar-dev.github.io/foodie-website/
 
-📸 Preview
+---
 
-✨ Features
-🛒 Add to Cart system
-➕ Increase / Decrease quantity
-💰 Auto total calculation
-📱 Fully responsive design
-🎨 Modern UI design
-⚡ Fast and lightweight
-🍕 Dynamic food menu (JSON data)
-🛠️ Tech Stack
-HTML5
-CSS3
-JavaScript (Vanilla JS)
-Font Awesome Icons
-Swiper JS
-📂 Project Structure
-foodie-website/
-│── index.html
-│── style.css
-│── main.js
-│── products.json
-│── images/
-│── screenshort.png
-📦 How to Run Locally
-git clone https://github.com/vikaspawar-dev/foodie-website.git
+## 📸 Screenshot
 
-Then open index.html in browser.
+![Foodie Website](screenshort.png)
 
-👨‍💻 Author
+---
 
-Vikas Pawar
+## ✨ Features
 
-GitHub: https://github.com/vikaspawar-dev
-LinkedIn: https://www.linkedin.com/in/vikas-pawar-74468a183
-📌 Note
+- 🛒 Add to Cart System
+- ➕➖ Quantity Update
+- 📱 Fully Responsive Design
+- 🎨 Modern UI Design
+- 🔥 Swiper Reviews Slider
+- ⚡ Fast and Lightweight
 
-This project is for portfolio/demo purposes.
-Feel free to explore the UI and functionality.
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- Swiper JS
+- Font Awesome
+
+---
+
+## 📂 Project Structure
+images/
+main.js
+style.css
+index.html
+products.json
+
+
+---
+
+## 👨‍💻 Author
+
+**Vikas Pawar**
+
+- GitHub: https://github.com/vikaspawar-dev  
+- LinkedIn: https://www.linkedin.com/in/vikas-pawar-74468a183
+
+---
+
+## ⭐ Show some support
+
+If you like this project, please ⭐ star the repository.
